@@ -1,6 +1,7 @@
 # hello/scripts/say_hello.py
 from colorama import Fore
 
+
 def main():
     print(Fore.RED + "Hello!")
 
